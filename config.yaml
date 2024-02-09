@@ -1,0 +1,10 @@
+path: G:/SAR/HRSID_jpg/dataset
+train: images/train
+val: images/val
+
+labels:
+  train: labels/train
+  val: labels/val
+
+names:
+  0: ship
