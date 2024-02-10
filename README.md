@@ -4,7 +4,8 @@
 Detect ships in the given SAR Data. 
 This repository contains my work for the intership qualification task at [Suhora](https://suhora.com/). 
 
-## About Dataset - [Source](https://github.com/chaozhong2010/HRSID)
+## About Dataset
+[Source](https://github.com/chaozhong2010/HRSID)
 - The High-Resolution SAR Images Dataset (HRSID) contains 116 co-polarized and 20 cross-polarized SAR imageries.
 - The original imageries for constructing HRSID are 99 Sentinel-1B imageries, 36 TerraSAR-X and 1 TanDEM-X images.
 - Theabove136 panoramic SAR imageries cropped to 5604 high-resolution SAR images.
@@ -21,6 +22,7 @@ This repository contains my work for the intership qualification task at [Suhora
 - Converting the annotations into YOLOv8 format.
 - Downloading the model and training.
 - Debugging - Package compatibility issue due between existing pytorch installations and the packages installed by ultralytics, OS error (unidentified files), kernel crashes.
-- Evaluating the model.
-
+- Environment configuration issue. Trying on different hardware.
+- Employing a custom split and testing.
+  
 ## Results
