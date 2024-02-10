@@ -26,3 +26,8 @@ This repository contains my work for the intership qualification task at [Suhora
 - Employing a custom split and testing.
   
 ## Results
+- Final Metrics found in: [runs/detect/train10](https://github.com/Lyra0710/Ship_Detection/tree/main/runs/detect/train10)
+- Model predicts accurately on 4 images tested upon: Two images with ships and two pure background images.
+
+Main notebook: [sar.ipynb](https://github.com/Lyra0710/Ship_Detection/blob/main/sar.ipynb)
+
