@@ -1,4 +1,15 @@
-path: G:/SAR/HRSID_jpg/dataset
+# path: G:/SAR/HRSID_jpg/dataset
+# train: images/train
+# val: images/val
+
+# labels:
+#   train: labels/train
+#   val: labels/val
+
+# names:
+#   0: ship
+
+path: /content/drive/MyDrive/SARS/dataset
 train: images/train
 val: images/val
 
