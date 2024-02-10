@@ -1,4 +1,4 @@
-![image](https://github.com/Lyra0710/Ship_Detection/assets/111838540/4341cd76-d106-47c2-9183-2aaf4fee426e)﻿# Ship Detection using YOLOv8
+﻿# Ship Detection using YOLOv8
 # Problem statement
    Detect ships in the given SAR Data. 
    This repository contains my work for the intership qualification task at [Suhora](https://suhora.com/). 
